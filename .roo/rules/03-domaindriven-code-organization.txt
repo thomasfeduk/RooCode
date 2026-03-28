@@ -1,0 +1,1 @@
+* When writing new code, implement single responsibility principle at the method level. Organize classes around conceptual domains.
